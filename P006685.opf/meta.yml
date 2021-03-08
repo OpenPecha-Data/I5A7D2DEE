@@ -6,4 +6,9 @@ source_metadata:
 
     '
   author: ''
-  volumes: {}
+  volumes:
+    ebb9ac1437214ff4bfb0ba91bdf4137d:
+      image_group_id: I4PD4265
+      title: ''
+      volume_number: 1
+      total_pages: 1204
